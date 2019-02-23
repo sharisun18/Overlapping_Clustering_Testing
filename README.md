@@ -9,10 +9,10 @@ https://docs.google.com/document/d/1CazB84vBfcMogjPghMdwK7zT_1iybhVDdoPMsqebTBw/
 
 Three Algorithms:
 
-COPRA: https://arxiv.org/pdf/0910.5516.pdf \\
-OSLOM: http://www.oslom.org/software.html \\
-link-community: https://ucilnica.fri.uni-lj.si/pluginfile.php/1212/course/section/1202/Ahn%20et%20al%20-%20Link%20communities%20reveal%20multi-scale%20complexity%20in%20networks%2C%202010.pdf \\
+COPRA: https://arxiv.org/pdf/0910.5516.pdf <\br>
+OSLOM: http://www.oslom.org/software.html <\br>
+link-community: https://ucilnica.fri.uni-lj.si/pluginfile.php/1212/course/section/1202/Ahn%20et%20al%20-%20Link%20communities%20reveal%20multi-scale%20complexity%20in%20networks%2C%202010.pdf <\br>
 
 
-test_net: Self-designed small testing networks \\
+test_net: Self-designed small testing networks <\br>
 eval: Evaluation codes for clustering results
