@@ -1,0 +1,970 @@
+2017-09-21 17:00:47,762
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:49,902
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:49,907
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:51,437
+Key error:
+{u'input_error': u'none of the 29 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:51,442
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:52,999
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:53,004
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:54,540
+Key error:
+{u'input_error': u'none of the 9 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:54,545
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:56,147
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:56,152
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:57,680
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:57,685
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:00:59,216
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:00:59,221
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:00,754
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:00,760
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:02,267
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:02,273
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:03,824
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:03,828
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:05,360
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:05,364
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:06,913
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:06,919
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:08,604
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:08,616
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:10,175
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:10,182
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:11,825
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:11,830
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:13,436
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:13,440
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:15,014
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:15,022
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:16,527
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:16,531
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:18,059
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:18,065
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:19,575
+Key error:
+{u'input_error': u'none of the 9 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:19,579
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:21,133
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:21,154
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:22,778
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:22,788
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:24,305
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:24,311
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:25,797
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:25,801
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:27,296
+Key error:
+{u'input_error': u'none of the 10 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:27,301
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:28,846
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:28,851
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:30,365
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:30,370
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:31,863
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:31,867
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:33,363
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:33,368
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:34,922
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:34,928
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:36,427
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:36,432
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:37,996
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:38,001
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:39,579
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:39,584
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:41,241
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:41,246
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:43,026
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:43,031
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:44,524
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:44,529
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:46,117
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:46,121
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:47,652
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:47,655
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:49,318
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:49,323
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:50,850
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:50,855
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:52,365
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:52,369
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:53,899
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:53,904
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:55,394
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:55,399
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:56,903
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:56,909
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:01:58,654
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:01:58,659
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:00,171
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:00,174
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:01,691
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:01,696
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:03,307
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:03,311
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:04,856
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:04,861
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:06,391
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:06,396
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:07,928
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:07,933
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:09,422
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:09,427
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:10,925
+Key error:
+{u'input_error': u'none of the 13 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:10,930
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:12,433
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:12,438
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:13,970
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:13,975
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:15,504
+Key error:
+{u'input_error': u'none of the 25 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:15,507
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:17,042
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:17,047
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:18,560
+Key error:
+{u'input_error': u'none of the 3 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:18,567
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:20,186
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:20,190
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:21,698
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:21,703
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:23,391
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:23,396
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:25,035
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:25,040
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:26,707
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:26,712
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:28,306
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:28,311
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:29,844
+Key error:
+{u'input_error': u'none of the 44 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:29,849
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:31,377
+Key error:
+{u'input_error': u'none of the 18 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:31,383
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:32,904
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:32,910
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:34,591
+Key error:
+{u'input_error': u'none of the 12 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:34,596
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:36,192
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:36,197
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:37,697
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:37,703
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:39,263
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:39,268
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:40,799
+Key error:
+{u'input_error': u'none of the 9 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:40,807
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:42,335
+Key error:
+{u'input_error': u'none of the 15 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:42,339
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:43,871
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:43,876
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:45,406
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:45,410
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:47,015
+Key error:
+{u'input_error': u'none of the 12 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:47,022
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:48,526
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:48,530
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:50,027
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:50,031
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:52,575
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:52,581
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:54,170
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:54,178
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:55,680
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:55,685
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:57,184
+Key error:
+{u'input_error': u'none of the 5 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:57,188
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:02:58,728
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:02:58,733
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:00,298
+Key error:
+{u'input_error': u'none of the 16 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:00,304
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:01,831
+Key error:
+{u'input_error': u'none of the 18 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:01,836
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:03,360
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:03,364
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:04,863
+Key error:
+{u'input_error': u'none of the 4 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:04,868
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:06,400
+Key error:
+{u'input_error': u'none of the 27 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:06,405
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:07,914
+Key error:
+{u'input_error': u'none of the 22 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:07,919
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:09,414
+Key error:
+{u'input_error': u'none of the 18 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:09,421
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:11,008
+Key error:
+{u'input_error': u'none of the 16 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:11,013
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:12,544
+Key error:
+{u'input_error': u'none of the 41 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:12,549
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:14,081
+Key error:
+{u'input_error': u'none of the 50 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:14,086
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:15,616
+Key error:
+{u'input_error': u'none of the 50 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:15,621
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:17,151
+Key error:
+{u'input_error': u'none of the 15 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:17,157
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:18,768
+Key error:
+{u'input_error': u'none of the 36 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:18,773
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:20,367
+Key error:
+{u'input_error': u'none of the 31 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:20,372
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:21,854
+Key error:
+{u'input_error': u'none of the 27 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:21,860
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:23,500
+Key error:
+{u'input_error': u'none of the 9 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:23,510
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:25,107
+Key error:
+{u'input_error': u'none of the 40 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:25,112
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:26,703
+Key error:
+{u'input_error': u'none of the 11 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:26,708
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:28,211
+Key error:
+{u'input_error': u'none of the 17 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:28,216
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:29,848
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:29,853
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:31,408
+Key error:
+{u'input_error': u'none of the 22 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:31,414
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:32,921
+Key error:
+{u'input_error': u'none of the 25 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:32,926
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:34,456
+Key error:
+{u'input_error': u'none of the 22 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:34,463
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:35,994
+Key error:
+{u'input_error': u'none of the 34 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:36,014
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:37,541
+Key error:
+{u'input_error': u'none of the 24 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:37,548
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:39,099
+Key error:
+{u'input_error': u'none of the 24 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:39,104
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:40,634
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:40,639
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:42,156
+Key error:
+{u'input_error': u'none of the 12 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:42,166
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:43,708
+Key error:
+{u'input_error': u'none of the 69 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:43,728
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:45,279
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:45,283
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:46,925
+Key error:
+{u'input_error': u'none of the 16 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:46,932
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:48,720
+Key error:
+{u'input_error': u'none of the 25 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:48,724
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:50,448
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:50,455
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:52,201
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:52,206
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:53,823
+Key error:
+{u'input_error': u'none of the 6 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:53,866
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:55,746
+Key error:
+{u'input_error': u'none of the 11 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:55,754
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:57,259
+Key error:
+{u'input_error': u'none of the 12 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:57,268
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:03:58,791
+Key error:
+{u'input_error': u'none of the 9 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:03:58,797
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:00,395
+Key error:
+{u'input_error': u'none of the 19 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:00,401
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:02,004
+Key error:
+{u'input_error': u'none of the 24 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:02,008
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:03,518
+Key error:
+{u'input_error': u'none of the 49 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:03,526
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:05,089
+Key error:
+{u'input_error': u'none of the 40 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:05,096
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:06,750
+Key error:
+{u'input_error': u'none of the 38 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:06,756
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:08,351
+Key error:
+{u'input_error': u'none of the 55 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:08,357
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:09,970
+Key error:
+{u'input_error': u'none of the 111 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:09,977
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:11,527
+Key error:
+{u'input_error': u'none of the 41 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:11,533
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:13,161
+Key error:
+{u'input_error': u'none of the 57 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:13,168
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:14,662
+Key error:
+{u'input_error': u'none of the 50 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:14,669
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:16,279
+Key error:
+{u'input_error': u'none of the 38 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:16,287
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:18,016
+Key error:
+{u'input_error': u'none of the 24 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:18,026
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:19,579
+Key error:
+{u'input_error': u'none of the 53 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:19,588
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:21,183
+Key error:
+{u'input_error': u'none of the 47 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:21,190
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:22,774
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:22,784
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:24,363
+Key error:
+{u'input_error': u'none of the 7 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:24,371
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:25,957
+Key error:
+{u'input_error': u'none of the 8 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:25,965
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:27,457
+Key error:
+{u'input_error': u'none of the 28 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:27,462
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:28,991
+Key error:
+{u'input_error': u'none of the 19 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:29,009
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:30,616
+Key error:
+{u'input_error': u'none of the 135 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:30,624
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:32,126
+Key error:
+{u'input_error': u'none of the 15 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:32,131
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:33,749
+Key error:
+{u'input_error': u'none of the 40 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:33,754
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:35,406
+Key error:
+{u'input_error': u'none of the 59 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:35,411
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:37,024
+Key error:
+{u'input_error': u'none of the 12 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:37,041
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:38,534
+Key error:
+{u'input_error': u'none of the 77 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:38,539
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:40,055
+Key error:
+{u'input_error': u'none of the 100 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:40,059
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:41,576
+Key error:
+{u'input_error': u'none of the 100 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:41,582
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:43,077
+Key error:
+{u'input_error': u'none of the 77 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:43,081
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:44,603
+Key error:
+{u'input_error': u'none of the 46 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:44,611
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:46,141
+Key error:
+{u'input_error': u'none of the 131 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:46,152
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:47,646
+Key error:
+{u'input_error': u'none of the 52 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:47,656
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:49,208
+Key error:
+{u'input_error': u'none of the 17 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:49,214
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:50,709
+Key error:
+{u'input_error': u'none of the 12 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:50,714
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:52,212
+Key error:
+{u'input_error': u'none of the 13 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:52,219
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:53,731
+Key error:
+{u'input_error': u'none of the 54 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:53,738
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:55,245
+Key error:
+{u'input_error': u'none of the 109 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:55,249
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:56,779
+Key error:
+{u'input_error': u'none of the 65 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:56,789
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:58,282
+Key error:
+{u'input_error': u'none of the 73 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:58,288
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:04:59,862
+Key error:
+{u'input_error': u'none of the 63 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:04:59,869
+Starting new HTTP connection (1): llama.mshri.on.ca
+2017-09-21 17:05:01,444
+Key error:
+{u'input_error': u'none of the 96 (distinct) query items belong to the default gene space'}
+
+2017-09-21 17:05:01,461
+enrichment.py dsd_OSLOM_4.5_0.name
+Completed successfully
+

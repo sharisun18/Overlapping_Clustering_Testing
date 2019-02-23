@@ -1,0 +1,5 @@
+Enriched clusters (for p=0.05): 2
+Total clusters: 5
+Enrichment ratio: 0.4
+Average number of enrichments: 14.2
+Average top log odds score: 1.42504995962
