@@ -13,7 +13,7 @@ COPRA: https://arxiv.org/pdf/0910.5516.pdf
 
 OSLOM: http://www.oslom.org/software.html
 
-link-community: https://ucilnica.fri.uni-lj.si/pluginfile.php/1212/course/section/1202/Ahn%20et%20al%20-%20Link%20communities%20reveal%20multi-scale%20complexity%20in%20networks%2C%202010.pdf
+link-community: https://arxiv.org/pdf/0903.3178.pdf
 
 
 test_net: Self-designed small testing networks
